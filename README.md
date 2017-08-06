@@ -1,16 +1,16 @@
-### MobileComputing
+# MobileComputing
 This contains projects and activities that is made in our Mobile Computing class.
 
 # July 12, 2017
 TempConversion
-	* This application is a temperature conversion
-	* It will ask the user for a temperature and the user is required to select celsius or fahrenhiet in the radio button
-	* The user will then click a button in order to display the converted temparature.
+* This application is a temperature conversion
+* It will ask the user for a temperature and the user is required to select celsius or fahrenhiet in the radio button
+* The user will then click a button in order to display the converted temparature.
 
 # July 22, 2017
 Login
-	* This is a simple activity used for passing a string into another activity.
-	* The user will input two strings and it will be displayed in the next activity.
+* This is a simple activity used for passing a string into another activity.
+* The user will input two strings and it will be displayed in the next activity.
 
 # July 29, 2017 - PRELIM EXAM
 1. PrelimDizon1
