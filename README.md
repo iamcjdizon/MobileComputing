@@ -14,18 +14,18 @@ Login
 
 # July 29, 2017 - PRELIM EXAM
 PrelimDizon1
-*This application will a simple guessing game.
-*It will ask the user to guess a random number from 1 to 10 and will display if it is higher or lower or correct based on those numbers.
-*A reveal button is provided if the user wants to see the random number and it is also for testing purposed.
+* This application will a simple guessing game.
+* It will ask the user to guess a random number from 1 to 10 and will display if it is higher or lower or correct based on those numbers.
+* A reveal button is provided if the user wants to see the random number and it is also for testing purposed.
 
 PrelimDizon2
-*This is a simple application where it will display a trangular number of 1-10.
+* This is a simple application where it will display a trangular number of 1-10.
 
 PrelimDizon3
-*This application will count the repeating letters of a string.
-*The inputted string is from the main activity and will pass to another activity.
-*The next activity will then count the repeating letters of a string and will display them.
+* This application will count the repeating letters of a string.
+* The inputted string is from the main activity and will pass to another activity.
+* The next activity will then count the repeating letters of a string and will display them.
 
 # August 5, 2017
 AnimateImage
-*This is an application where we animate images using ImageView.
+* This is an application where we animate images using ImageView.
