@@ -29,3 +29,10 @@ Login
 # August 5, 2017
 AnimateImage
 * This is an application where we animate images using ImageView.
+
+# Augsust 12, 2017
+SplashScreen
+* It is a splash activity where there is a welcome activty and that welcome activity will go to the next activty after 5 seconds.
+* The second activity has a button where it will go the the third activity.
+* The application will exit if the back button is pressed in the second activity.
+* The third actvity demonstrates event listeners for image view.
